@@ -15,8 +15,10 @@ Other Repositories
 ### AZ-900: Azure Fundamentals 6h 6m
 - https://www.linkedin.com/learning/paths/prepare-for-the-azure-fundamentals-az-900-certification-by-microsoft-press - Path
 
-### AZ-104: Azure Admin 
+### AZ-104: Azure Admin 8h 43m
 a. Prepare-for-the-azure-administrator-az-104-certification-by-microsoft-press - 8h 43m
 - https://www.linkedin.com/learning/paths/prepare-for-the-azure-administrator-az-104-certification-by-microsoft-press - Path
 - https://www.linkedin.com/learning/microsoft-azure-administrator-associate-az-104-cert-prep-by-microsoft-press/introduction - Course
 
+### AZ-400 Azure DevOps 17h
+- https://www.linkedin.com/learning/paths/prepare-for-the-azure-devops-engineer-expert-az-400-certification-by-microsoft-press - Path 
