@@ -22,3 +22,10 @@ a. Prepare-for-the-azure-administrator-az-104-certification-by-microsoft-press -
 
 ### AZ-400 Azure DevOps 17h
 - https://www.linkedin.com/learning/paths/prepare-for-the-azure-devops-engineer-expert-az-400-certification-by-microsoft-press - Path 
+
+
+### Projects
+1. Jenkins Project 
+  - https://techyoutube.com/index.php/2024/02/28/jenkins-projects-6-mini-projects/
+2. Docker Projects
+  - https://techyoutube.com/index.php/2024/02/23/docker-projects-8-mini-projects-to-excel/
